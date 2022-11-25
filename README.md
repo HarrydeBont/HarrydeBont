@@ -2,7 +2,7 @@
 - 👀 I’m interested in psychology, IT, python, machine learning
 - 🌱 I’m currently learning to automate my workflow
 - 💞️ I’m looking to collaborate on improving Python skills
-- 📫 How to reach me www.moandcompany.nl
+- 📫 How to reach me www.monadcompany.nl
 
 <!---
 HarrydeBont/HarrydeBont is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
